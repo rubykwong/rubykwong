@@ -1,16 +1,7 @@
 ## Hi there 👋
-I'm Ruby (pronouns: they/them).
-- After nearly 7 years working in the charity sector, I've decided to retrain in web development 🐣
-- I’m currently taking Northcoders' Software Development Bootcamp in Javascript 🤓
-- I’m not working on any projects yet, but I will be soon! Watch this space...👨‍💻 👀
-<!--
-**rubykwong/rubykwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ruby (they/them), a full-stack software developer. After nearly 7 years of working in the charity sector, I decided to retrain with Northcoders' Software Development Bootcamp.
+I'll be looking for full-time junior roles from July 2025!
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: ...
--->
+## Coding skills & languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nextjs,nodejs,npm,postgres,react,git,github,netlify,supabase,ubuntu,vite)](https://skillicons.dev)
